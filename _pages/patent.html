@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Patents"
+permalink: /patent/
+redirect_from:
+  - /talks/
+author_profile: true
+---
+
+{% for post in site.patent reversed %}
+  {% include archive-single-patent.html %}
+{% endfor %}

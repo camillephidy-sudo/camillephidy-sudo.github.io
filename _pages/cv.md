@@ -38,10 +38,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Patents
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+  <ul>{% for post in site.patent reversed %}
+    {% include archive-single-patent-cv.html %}
   {% endfor %}</ul>
   
 Teaching
