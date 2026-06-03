@@ -23,7 +23,7 @@ repository               : "camillephidy-sudo/camillephidy-sudo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jfif"
   name             : "Dylan Chen"
   pronouns         : # example: "she/her"  
   bio              : "Holding a Master’s from Beijing Normal University, I am a specialist in AI-driven remote sensing with a proven track record of translating complex datasets into patented monitoring systems and high-impact IEEE publications. My expertise spans Bayesian inference, spatiotemporal modeling, and the application of Large Vision Models to environmental risk assessment. I am passionate about building scalable, data-driven technologies that enhance climate resilience and resource sustainability."

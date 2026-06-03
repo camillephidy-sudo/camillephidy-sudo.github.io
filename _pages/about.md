@@ -7,33 +7,37 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+I am **Dylan Chen**, a remote sensing and geospatial AI researcher with an M.S. in Cartography and Geographic Information Systems from Beijing Normal University (2021–2024) and a B.A. from Southwest University (2017–2021). I specialize in turning multi-sensor Earth observation—microwave SAR, optical imagery, and field measurements—into interpretable, deployable environmental intelligence.
 
-Holding a Master’s from Beijing Normal University, I am a specialist in AI-driven remote sensing with a proven track record of translating complex datasets into patented monitoring systems and high-impact IEEE publications. My expertise spans Bayesian inference, spatiotemporal modeling, and the application of Large Vision Models to environmental risk assessment. I am passionate about building scalable, data-driven technologies that enhance climate resilience and resource sustainability.
+My work spans **physics-informed inversion**, **Bayesian fusion**, **foundation-model embeddings** (e.g., SAM), and **unsupervised anomaly detection** for soil salinity, vegetation water content, and cryosphere–ecosystem processes. I have led development of the patented [**General On-Orbit Earth Surface Soil Salinization Detection and Monitoring System (GOESSD)**](/patent/2023-soil-salinization-detection-monitoring-system/) and published in **IEEE J-STARS** and **IGARSS**, alongside extensive [**Tibetan Plateau field logs**](/year-archive/) from the Second Tibetan Plateau Scientific Expedition.
 
 ## Education
 
-- **Master of Science in Cartography and Geographical Information System**  
-  Beijing Normal University (BNU) | 2021 – 2024
+- **M.S., Cartography and Geographic Information System**  
+  Beijing Normal University | 2021 – 2024
 
-- **Bachelor of Arts in Cartography and Geographical Information Science**  
+- **B.A., Cartography and Geographic Information Science**  
   Southwest University | 2017 – 2021
 
 ## Research Interests
 
-- Physics-informed Deep Learning
-- Large Vision Models for Remote Sensing
-- Spatiotemporal Data Mining
-- Bayesian Physics Fusion
-- Microwave Remote Sensing Inversion
-- Explainable AI (xAI)
-- Uncertainty Quantification
-- Earth Observation Foundation Models
-- Climate-Ecosystem Feedbacks 
+- Unsupervised and physics-informed anomaly detection for land-surface change
+- Large vision models and foundation-model embeddings in remote sensing
+- Microwave radiometry, GLCM texture, and Sentinel-1/2 data fusion
+- Bayesian inference, uncertainty quantification, and explainable AI (xAI)
+- Spatiotemporal modeling of vegetation moisture and soil salinity
+- Climate–ecosystem feedbacks and high-altitude periglacial environments
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+## Selected Work
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+| Theme | Highlight |
+|-------|-----------|
+| **Patent & systems** | [GOESSD soil salinization monitoring](/patent/2023-soil-salinization-detection-monitoring-system/) — dual-branch S1/GLCM + S2/SAM pipeline, CN 2023SR0815282 |
+| **Publications** | IEEE J-STARS (topographic correction, vegetation moisture); IGARSS 2024 (Water Cloud Model + Sentinel-1) — see [Publications](/publications/) |
+| **Field science** | Freeze–thaw and thermokarst field logs from the Tibetan Plateau (2022 expedition) — see [Blog](/year-archive/) |
+
+## Current Focus
+
+I work as a **freelance researcher** in AI-driven remote sensing, building reproducible pipelines (YAML/MLOps), regional monitoring products, and publication-ready geospatial visualizations for environmental risk and resource sustainability.
+
+**Contact:** [cyberpunkcdy@outlook.com](mailto:cyberpunkcdy@outlook.com)
