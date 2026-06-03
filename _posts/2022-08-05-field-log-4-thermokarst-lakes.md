@@ -35,6 +35,9 @@ The thermokarst lake sampling site presented significant accessibility constrain
 
 Despite the arrival at the sampling point near 5:00 PM, **direct ground-based sampling was ultimately not feasible due to accessibility constraints**.
 
+![Aerial view of the thermokarst lake complex captured during UAV documentation.](/images/expedition/aerial-thermokarst-lake.jpg)
+*Figure 5. UAV imagery of the thermokarst lake complex and surrounding landscape.*
+
 ## Compensatory Remote Sensing Documentation
 
 To maximize scientific value despite on-ground limitations, Professor Zhao conducted comprehensive **UAV (unmanned aerial vehicle) aerial photography** of the thermokarst lake complex. This remote sensing approach provided:

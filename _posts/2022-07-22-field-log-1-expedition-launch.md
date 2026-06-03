@@ -14,6 +14,9 @@ tags:
 
 The Second Tibetan Plateau Comprehensive Scientific Expedition commenced on July 22, 2022, with a focus on investigating the impacts of freeze-thaw processes on soil quality and ecosystem health. This field campaign examined periglacial geomorphology across the Tibetan Plateau, specifically targeting regions with characteristic thermokarst and freeze-thaw landforms.
 
+![Expedition team departing from Qinghai Lake Experimental Station.](/images/expedition/team-photo.jpg)
+*Figure 1. Team photo taken on Day 1 of the field campaign.*
+
 ## Research Objectives
 
 Based on remote sensing analysis of Google Earth imagery and geomorphological characteristics, we identified 19 key study points across the Tibetan Plateau. Our primary objectives include:
@@ -31,6 +34,9 @@ Around midday, the team passed through Mulongqiongwa and **discovered a highly r
 ## Thermokarst Slump Analysis
 
 A thermokarst slump occurs when subsurface ground ice on slopes melts, causing overlying soil layers to lose support. Under gravitational stress, soil strata become unstable and collapse along melt surfaces, forming characteristic periglacial landforms called thermokarsts.
+
+![Early-stage thermokarst slump near Mulongqiongwa with exposed soil layers and vegetation cover.](/images/expedition/thermokarst-slump.jpg)
+*Figure 2. Early-stage thermokarst slump documented on Day 1.*
 
 ### Key Observations:
 

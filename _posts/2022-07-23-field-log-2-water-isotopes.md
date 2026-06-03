@@ -21,6 +21,9 @@ Isotope samples were systematically collected from three distinct water bodies:
 - **Datong River**: Major regional water source
 - **Thermokarst lake groups**: Periglacial lacustrine environments
 
+![River-source wetland on the Tibetan Plateau showing surface water convergence and adjacent alpine vegetation.](/images/expedition/river-wetland.jpg)
+*Figure 3. River-source wetland documented during isotope sampling.*
+
 ## Riverine Wetland Formation Mechanisms
 
 Through field discussion, we documented the formation of a characteristic river-source wetland in the upper reaches of a Shahuhe tributary. The primary mechanism involves freeze-thaw dynamics:

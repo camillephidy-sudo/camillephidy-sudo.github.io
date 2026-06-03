@@ -14,6 +14,9 @@ tags:
 
 Approximately one week into fieldwork, during the journey toward Mulin Town, the team observed and documented multiple representative freeze-thaw geomorphological features. Mid-afternoon fieldwork at approximately 3:00 PM revealed a **typical permafrost mound complex** combining features of frost-heave hillocks and early-stage thermokarst lakes.
 
+![Permafrost mound complex showing frost-heave tussocks and differential ground ice accumulation.](/images/expedition/permafrost-mounds.jpg)
+*Figure 4. Permafrost mound complex documented near Mulin Town.*
+
 ## Permafrost Mound (Frost-Heave Hillock) Characteristics
 
 Permafrost mounds, locally referred to as "冻胀草丘" (frost-heave tussocks), form through differential ice segregation and ground ice accumulation during frost expansion cycles. Key characteristics include:
