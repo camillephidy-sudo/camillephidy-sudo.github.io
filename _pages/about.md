@@ -33,7 +33,7 @@ My work spans **physics-informed inversion**, **Bayesian fusion**, **foundation-
 | Theme | Highlight |
 |-------|-----------|
 | **Patent & systems** | [GOESSD soil salinization monitoring](/patent/2023-soil-salinization-detection-monitoring-system/) — dual-branch S1/GLCM + S2/SAM pipeline, CN 2023SR0815282 |
-| **Publications** | IEEE J-STARS (topographic correction, vegetation moisture); IGARSS 2024 (Water Cloud Model + Sentinel-1) — see [Publications](/publications/) |
+| **Publications** | IEEE J-STARS & IGARSS (with DOI); *Journal of Hydrology* manuscript under review — see [Publications](/publications/) |
 | **Field science** | Freeze–thaw and thermokarst field logs from the Tibetan Plateau (2022 expedition) — see [Blog](/year-archive/) |
 
 ## Current Focus

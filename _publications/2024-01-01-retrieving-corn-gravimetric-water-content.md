@@ -3,28 +3,63 @@ title: "Retrieving Corn Gravimetric Water Content Based on the Water Cloud Model
 collection: publications
 category: conferences
 permalink: /publication/2024-01-01-retrieving-corn-gravimetric-water-content
-excerpt: 'Conference study retrieving corn gravimetric water content by coupling the Water Cloud Model with Sentinel-1 and Radarsat-2 C-band SAR.'
-date: 2024-01-01
-venue: 'IGARSS 2024 - IEEE International Geoscience and Remote Sensing Symposium'
-citation: 'Chen, D. (2024). &quot;Retrieving Corn Gravimetric Water Content Based on the Water Cloud Model Using Sentinel-1 and Radarsat-2 Imageries.&quot; <i>IGARSS 2024 - IEEE International Geoscience and Remote Sensing Symposium</i>.'
+excerpt: 'IGARSS 2024 (pp. 11446–11449)—first-author study retrieving corn GWC with WCM, Sentinel-1, and Radarsat-2; doi:10.1109/IGARSS53475.2024.10642668.'
+date: 2024-07-01
+venue: 'IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athens, Greece'
+citation: 'Chen, D.*, L. Chai and H. Cui (2024). &quot;Retrieving Corn Gravimetric Water Content Based on the Water Cloud Model Using Sentinel-1 and Radarsat-2 Imageries.&quot; <i>IGARSS 2024</i>, Athens, Greece, pp. 11446-11449, doi: 10.1109/IGARSS53475.2024.10642668.'
+paperurl: 'https://doi.org/10.1109/IGARSS53475.2024.10642668'
+tags:
+  - igarss
+  - water-cloud-model
+  - sentinel-1
+  - radarsat-2
+  - agriculture
+  - gravimetric-water-content
+header:
+  teaser: /images/goessd/field-sampling-1.jpg
 ---
 
-Presented at **IGARSS 2024**, this work targets **corn gravimetric water content (GWC)** retrieval using dual C-band SAR platforms and a physically motivated scattering model.
+## Abstract
 
-## Problem
+Presented at **IGARSS 2024** (Athens, pp. 11446–11449), this study retrieves **corn gravimetric water content (GWC)** by inverting the **Water Cloud Model** with **Sentinel-1** and **Radarsat-2** C-band SAR. Field gravimetric samples provide ground truth for all-weather crop water monitoring.
 
-Accurate crop water status is essential for irrigation scheduling and drought early warning, yet optical methods are limited by cloud cover. C-band SAR provides all-weather sensitivity to canopy structure and moisture.
+## Authors
 
-## Method
+**D. Chen** (corresponding author), L. Chai, H. Cui
 
-- **Water Cloud Model** parameterization separating vegetation and soil contributions to backscatter.
-- Joint use of **Sentinel-1** and **Radarsat-2** imagery to exploit complementary temporal sampling.
-- Inversion workflow calibrated against gravimetric field measurements of corn water content.
+## Motivation
 
-## Results and impact
+| Challenge | SAR-based response |
+|-----------|-------------------|
+| Cloud cover blocks optical crop water indices | C-band SAR operates through clouds |
+| Canopy structure confounds moisture signals | WCM separates vegetation and soil backscatter |
+| Single-platform gaps in revisit | Sentinel-1 + Radarsat-2 improve temporal sampling |
 
-The study demonstrates that WCM-based SAR inversion can track **intra-season corn moisture dynamics** at field-relevant scales, bridging my microwave radiometry research with operational agrometeorology applications.
+## Experimental design
 
-## Connection to other work
+- **Study focus:** Maize (corn) gravimetric water content during active growth.
+- **Sensors:** Sentinel-1 and Radarsat-2 dual-polarization C-band imagery.
+- **Model:** Water Cloud Model inversion calibrated to field-measured GWC.
+- **Validation:** Gravimetric sampling campaigns (see field photo below).
 
-This conference paper aligns with my later **IEEE J-STARS Bayesian vegetation moisture algorithm** and field campaigns supporting ground-truth validation across cropland environments.
+![Field gravimetric sampling supporting SAR–WCM validation.](/images/goessd/field-sampling-1.jpg)
+*Field data collection for corn water-content validation.*
+
+## Findings
+
+- WCM-based inversion tracks **intra-season corn moisture dynamics** at field-relevant scales.
+- Dual-platform SAR improves temporal coverage versus single-sensor pipelines.
+- Results bridge **microwave radiometry theory** and **operational agrometeorology**.
+
+## Research thread
+
+This conference work precedes the **[2026 Journal of Hydrology manuscript (under review)](/publication/2026-01-01-sar-soil-moisture-bayesian-wcm-hydrology)** on Bayesian–WCM coupling for improved SAR soil moisture retrieval.
+
+## Citation & access
+
+Chen, D.*, L. Chai and H. Cui (2024). IGARSS 2024, pp. 11446–11449.  
+**DOI:** [10.1109/IGARSS53475.2024.10642668](https://doi.org/10.1109/IGARSS53475.2024.10642668)
+
+## Keywords
+
+IGARSS · Water Cloud Model · corn · gravimetric water content · Sentinel-1 · Radarsat-2 · agriculture
