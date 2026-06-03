@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Dylan Chen - Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Dylan Chen"
-description              : &description "Dylan Chen's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Remote sensing researcher (BNU M.S.) specializing in microwave SAR, Bayesian inversion, and AI-driven environmental monitoring—GOESSD patent, IEEE J-STARS & IGARSS, Tibetan Plateau field science."
 url                      : https://camillephidy-sudo.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jfif"
   name             : "Dylan Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Holding a Master’s from Beijing Normal University, I am a specialist in AI-driven remote sensing with a proven track record of translating complex datasets into patented monitoring systems and high-impact IEEE publications. My expertise spans Bayesian inference, spatiotemporal modeling, and the application of Large Vision Models to environmental risk assessment. I am passionate about building scalable, data-driven technologies that enhance climate resilience and resource sustainability."
+  bio              : "I'm a GIS specialist and patent-holding innovator transitioning to the robotics industry to build autonomous, active-sensing platforms. I'm highly motivated to move from mapping environments to controlling the machines that navigate them."
   location         : "Guangdong, China"
   employer         : "Freelancer"
   uri              : # URL
@@ -144,7 +144,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_description           : "Dylan Chen — remote sensing, GOESSD soil salinization monitoring, IEEE publications, and Tibetan Plateau field research."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
