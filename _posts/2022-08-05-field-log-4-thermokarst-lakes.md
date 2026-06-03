@@ -35,12 +35,21 @@ The thermokarst lake sampling site presented significant accessibility constrain
 
 Despite the arrival at the sampling point near 5:00 PM, **direct ground-based sampling was ultimately not feasible due to accessibility constraints**.
 
-![Aerial view of the thermokarst lake complex captured during UAV documentation.](/images/expedition/aerial-thermokarst-lake.jpg)
-*Figure 5. UAV imagery of the thermokarst lake complex and surrounding landscape.*
-
 ## Compensatory Remote Sensing Documentation
 
-To maximize scientific value despite on-ground limitations, Professor Zhao conducted comprehensive **UAV (unmanned aerial vehicle) aerial photography** of the thermokarst lake complex. This remote sensing approach provided:
+To maximize scientific value despite on-ground limitations, the team conducted comprehensive **UAV (unmanned aerial vehicle) aerial photography** of the thermokarst lake complex. This remote sensing approach provided:
+
+![Pre-flight UAV setup at the thermokarst lake field site after ground sampling proved inaccessible.](/images/expedition/deploying-uav.jpg)
+*Figure 6. UAV deployment at the thermokarst lake field site.*
+
+![Research UAV in flight over the thermokarst lake field site.](/images/expedition/uav-flight-landscape.jpg)
+*Figure 7. UAV survey flight over the thermokarst lake complex and surrounding plateau.*
+
+![UAV in flight during high-resolution landscape documentation.](/images/expedition/uav-flight-survey.jpg)
+*Figure 8. UAV operations during multispectral and orthomosaic data collection.*
+
+![Aerial view of the thermokarst lake complex captured during UAV documentation.](/images/expedition/aerial-thermokarst-lake.jpg)
+*Figure 9. Orthomosaic-style UAV imagery of the thermokarst lake complex and surrounding landscape.*
 
 - High-resolution imagery of lake distribution patterns
 - Spatial documentation of lake morphology and interconnections
