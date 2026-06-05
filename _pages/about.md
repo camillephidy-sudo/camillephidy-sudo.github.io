@@ -9,7 +9,7 @@ redirect_from:
 
 I am **Dylan Chen**, a remote sensing and geospatial AI researcher with an M.S. in Cartography and Geographic Information Systems from Beijing Normal University (2021–2024) and a B.A. from Southwest University (2017–2021). I specialize in turning multi-sensor Earth observation—microwave SAR, optical imagery, and field measurements—into interpretable, deployable environmental intelligence.
 
-My work spans **physics-informed inversion**, **Bayesian fusion**, **foundation-model embeddings** (e.g., SAM), and **unsupervised anomaly detection** for soil salinity, vegetation water content, and cryosphere–ecosystem processes. I have led development of the patented [**General On-Orbit Earth Surface Soil Salinization Detection and Monitoring System (GOESSD)**](/patent/2023-soil-salinization-detection-monitoring-system/) and published in **IEEE J-STARS** and **IGARSS**, alongside extensive [**Tibetan Plateau field logs**](/year-archive/) from the Second Tibetan Plateau Scientific Expedition.
+My work spans **physics-informed inversion**, **Bayesian fusion**, **foundation-model embeddings** (e.g., SAM), and **unsupervised anomaly detection** for soil salinity, vegetation water content, and cryosphere–ecosystem processes. I have led development of the patented [**General On-Orbit Earth Surface Soil Salinization Detection and Monitoring System (GOESSD)**](/patent/2023-soil-salinization-detection-monitoring-system/) and published in **IEEE J-STARS** and **IGARSS**, alongside field logs from the [**Second Tibetan Plateau Expedition (2022)**](/year-archive/) and the [**Heihe River Basin ecohydrological network upgrade (2019)**](/posts/2019/09/field-log-9-huazhaizi-sensor-network/).
 
 ## Education
 
@@ -34,7 +34,7 @@ My work spans **physics-informed inversion**, **Bayesian fusion**, **foundation-
 |-------|-----------|
 | **Patent & systems** | [GOESSD soil salinization monitoring](/patent/2023-soil-salinization-detection-monitoring-system/) — dual-branch S1/GLCM + S2/SAM pipeline, CN 2023SR0815282 |
 | **Publications** | IEEE J-STARS & IGARSS (with DOI); *Journal of Hydrology* manuscript under review — see [Publications](/publications/) |
-| **Field science** | Freeze–thaw and thermokarst field logs from the Tibetan Plateau (2022 expedition) — see [Blog](/year-archive/) |
+| **Field science** | Tibetan Plateau freeze–thaw logs (2022) and Heihe Basin ET/SM network upgrade (2019) — see [Blog](/year-archive/) |
 
 ## Current Focus
 
