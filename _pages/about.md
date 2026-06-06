@@ -34,6 +34,7 @@ My work spans **physics-informed inversion**, **Bayesian fusion**, **foundation-
 |-------|-----------|
 | **Patent & systems** | [GOESSD soil salinization monitoring](/patent/2023-soil-salinization-detection-monitoring-system/) — dual-branch S1/GLCM + S2/SAM pipeline, CN 2023SR0815282 |
 | **Publications** | IEEE J-STARS & IGARSS (with DOI); *Journal of Hydrology* manuscript under review — see [Publications](/publications/) |
+| **Portfolio** | [SOC warming meta-analysis pipeline](/portfolio/2023-12-01-soc-warming-meta-analysis-pipeline/) & [Lockstep Web3 escrow](/portfolio/2025-05-01-lockstep-milestone-escrow/) — see [Portfolio](/portfolio/) |
 | **Field science** | Tibetan Plateau freeze–thaw logs (2022) and Heihe Basin ET/SM network upgrade (2019) — see [Blog](/year-archive/) |
 
 ## Current Focus
