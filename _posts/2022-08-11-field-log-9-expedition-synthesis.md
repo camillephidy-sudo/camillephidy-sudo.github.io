@@ -1,7 +1,9 @@
 ---
-title: 'Field Log 5: Expedition Completion and Freeze-Thaw Impacts on Tibetan Plateau Ecosystems'
+title: 'Field Log 9: Expedition Completion and Freeze-Thaw Impacts on Tibetan Plateau Ecosystems'
 date: 2022-08-11
-permalink: /posts/2022/08/field-log-5-expedition-synthesis/
+permalink: /posts/2022/08/field-log-9-expedition-synthesis/
+redirect_from:
+  - /posts/2022/08/field-log-5-expedition-synthesis/
 tags:
   - field-work
   - freeze-thaw

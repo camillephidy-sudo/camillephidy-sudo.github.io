@@ -1,7 +1,9 @@
 ---
-title: 'Field Log 8: Daman Superstation — Microwave Radiometry and Flux Tower Operations'
+title: 'Field Log 3: Daman Superstation — Microwave Radiometry and Flux Tower Operations'
 date: 2019-09-18
-permalink: /posts/2019/09/field-log-8-daman-superstation/
+permalink: /posts/2019/09/field-log-3-daman-superstation/
+redirect_from:
+  - /posts/2019/09/field-log-8-daman-superstation/
 tags:
   - field-work
   - heihe-river-basin
@@ -25,15 +27,13 @@ tags:
 
 A dual-frequency microwave radiometer was operated on a stabilized tripod over the irrigated mosaic south of the superstation, providing brightness temperature references for soil-moisture retrieval experiments tied to my later **WCM and Bayesian inversion** research.
 
-![Microwave radiometer deployment on a stabilized field tripod.](/images/heihe/daman-station-1.jpg)
-*Figure 18. Ground-based microwave radiometer operations at Daman Superstation.*
+{% include field-log-figure.html src="/images/heihe/daman-station-1.jpg" alt="Microwave radiometer deployment on a stabilized field tripod." caption="Figure 1. Ground-based microwave radiometer operations at Daman Superstation." %}
 
 ## Flux Tower Instrument Suite
 
 Atop the superstation tower, combined **radiation-shielded temperature/humidity** sensors, optical pointing devices, and microwave receivers capture the multi-scale forcing needed to validate disaggregated latent heat flux and soil-moisture products against **11 global SM products** benchmarked in the project (SMAP, SMOS-IC, CCI, GLDAS, etc.).
 
-![Flux tower radiometer and meteorological sensor suite at Daman.](/images/heihe/daman-station-2.jpg)
-*Figure 19. Tower-mounted sensors supporting ET and soil-moisture product validation.*
+{% include field-log-figure.html src="/images/heihe/daman-station-2.jpg" alt="Flux tower radiometer and meteorological sensor suite at Daman." caption="Figure 2. Tower-mounted sensors supporting ET and soil-moisture product validation." %}
 
 ## Integration with Remote Sensing Products
 
@@ -45,4 +45,4 @@ Daman data underpinned September 2019 progress reports on:
 
 ## Field Note
 
-Operations proceeded under clear continental weather—ideal for synchronizing tower fluxes, radiometer scans, and overpass-matched satellite acquisitions before the **Huazhaizi** soil-network intensive (Field Log 9).
+Operations proceeded under clear continental weather—ideal for synchronizing tower fluxes, radiometer scans, and overpass-matched satellite acquisitions before the **Huazhaizi** soil-network intensive (Field Log 4).

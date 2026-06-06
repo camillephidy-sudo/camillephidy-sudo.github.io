@@ -1,7 +1,9 @@
 ---
-title: 'Field Log 1: Expedition Launch and Thermokarst Slump Discovery'
+title: 'Field Log 5: Expedition Launch and Thermokarst Slump Discovery'
 date: 2022-07-22
-permalink: /posts/2022/07/field-log-1-expedition-launch/
+permalink: /posts/2022/07/field-log-5-expedition-launch/
+redirect_from:
+  - /posts/2022/07/field-log-1-expedition-launch/
 tags:
   - field-work
   - freeze-thaw
@@ -14,8 +16,7 @@ tags:
 
 The Second Tibetan Plateau Comprehensive Scientific Expedition commenced on July 22, 2022, with a focus on investigating the impacts of freeze-thaw processes on soil quality and ecosystem health. This field campaign examined periglacial geomorphology across the Tibetan Plateau, specifically targeting regions with characteristic thermokarst and freeze-thaw landforms.
 
-![Expedition team departing from Qinghai Lake Experimental Station.](/images/expedition/team-photo.jpg)
-*Figure 1. Team photo taken on Day 1 of the field campaign.*
+{% include field-log-figure.html src="/images/expedition/team-photo.jpg" alt="Expedition team departing from Qinghai Lake Experimental Station." caption="Figure 1. Team photo taken on Day 1 of the field campaign." %}
 
 ## Research Objectives
 
@@ -35,15 +36,7 @@ Around midday, the team passed through Mulongqiongwa and **discovered a highly r
 
 A thermokarst slump occurs when subsurface ground ice on slopes melts, causing overlying soil layers to lose support. Under gravitational stress, soil strata become unstable and collapse along melt surfaces, forming characteristic periglacial landforms called thermokarsts.
 
-![Early-stage thermokarst slump near Mulongqiongwa with exposed soil layers and vegetation cover.](/images/expedition/thermokarst-slump.jpg)
-*Figure 2. Early-stage thermokarst slump documented on Day 1.*
-
-### Key Observations:
-
-- **Vegetation coverage**: Overall, the slumped soil mass maintained good vegetation coverage
-- **Exposed soil layers**: Partial inversion of slumped soil exposed deeper soil profiles
-- **Water erosion**: Concentrated water flow led to water-driven erosion of exposed deep soil
-- **Future development**: Observable tendency toward thermokarst gully formation
+{% include field-log-figure.html src="/images/expedition/thermokarst-slump.jpg" alt="Early-stage thermokarst slump near Mulongqiongwa with exposed soil layers and vegetation cover." caption="Figure 2. Early-stage thermokarst slump documented on Day 1." %}
 
 ## Sampling Protocol
 

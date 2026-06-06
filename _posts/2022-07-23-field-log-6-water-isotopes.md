@@ -1,7 +1,9 @@
 ---
-title: 'Field Log 2: Water Isotope Analysis and Riverine Wetland Ecosystems'
+title: 'Field Log 6: Water Isotope Analysis and Riverine Wetland Ecosystems'
 date: 2022-07-23
-permalink: /posts/2022/07/field-log-2-water-isotopes/
+permalink: /posts/2022/07/field-log-6-water-isotopes/
+redirect_from:
+  - /posts/2022/07/field-log-2-water-isotopes/
 tags:
   - field-work
   - freeze-thaw
@@ -21,8 +23,7 @@ Isotope samples were systematically collected from three distinct water bodies:
 - **Datong River**: Major regional water source
 - **Thermokarst lake groups**: Periglacial lacustrine environments
 
-![River-source wetland on the Tibetan Plateau showing surface water convergence and adjacent alpine vegetation.](/images/expedition/river-wetland.jpg)
-*Figure 3. River-source wetland documented during isotope sampling.*
+{% include field-log-figure.html src="/images/expedition/river-wetland.jpg" alt="River-source wetland on the Tibetan Plateau showing surface water convergence and adjacent alpine vegetation." caption="Figure 1. River-source wetland documented during isotope sampling." %}
 
 ## Riverine Wetland Formation Mechanisms
 

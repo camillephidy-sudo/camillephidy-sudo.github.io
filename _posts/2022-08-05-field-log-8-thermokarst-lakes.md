@@ -1,7 +1,9 @@
 ---
-title: 'Field Log 4: Thermokarst Lake Groups and Landscape Evolution'
+title: 'Field Log 8: Thermokarst Lake Groups and Landscape Evolution'
 date: 2022-08-05
-permalink: /posts/2022/08/field-log-4-thermokarst-lakes/
+permalink: /posts/2022/08/field-log-8-thermokarst-lakes/
+redirect_from:
+  - /posts/2022/08/field-log-4-thermokarst-lakes/
 tags:
   - field-work
   - freeze-thaw
@@ -39,17 +41,13 @@ Despite the arrival at the sampling point near 5:00 PM, **direct ground-based sa
 
 To maximize scientific value despite on-ground limitations, the team conducted comprehensive **UAV (unmanned aerial vehicle) aerial photography** of the thermokarst lake complex. This remote sensing approach provided:
 
-![Pre-flight UAV setup at the thermokarst lake field site after ground sampling proved inaccessible.](/images/expedition/deploying-uav.jpg)
-*Figure 6. UAV deployment at the thermokarst lake field site.*
+{% include field-log-figure.html src="/images/expedition/deploying-uav.jpg" alt="Pre-flight UAV setup at the thermokarst lake field site after ground sampling proved inaccessible." caption="Figure 1. UAV deployment at the thermokarst lake field site." %}
 
-![Research UAV in flight over the thermokarst lake field site.](/images/expedition/uav-flight-landscape.jpg)
-*Figure 7. UAV survey flight over the thermokarst lake complex and surrounding plateau.*
+{% include field-log-figure.html src="/images/expedition/uav-flight-landscape.jpg" alt="Research UAV in flight over the thermokarst lake field site." caption="Figure 2. UAV survey flight over the thermokarst lake complex and surrounding plateau." %}
 
-![UAV in flight during high-resolution landscape documentation.](/images/expedition/uav-flight-survey.jpg)
-*Figure 8. UAV operations during multispectral and orthomosaic data collection.*
+{% include field-log-figure.html src="/images/expedition/uav-flight-survey.jpg" alt="UAV in flight during high-resolution landscape documentation." caption="Figure 3. UAV operations during multispectral and orthomosaic data collection." %}
 
-![Aerial view of the thermokarst lake complex captured during UAV documentation.](/images/expedition/aerial-thermokarst-lake.jpg)
-*Figure 9. Orthomosaic-style UAV imagery of the thermokarst lake complex and surrounding landscape.*
+{% include field-log-figure.html src="/images/expedition/aerial-thermokarst-lake.jpg" alt="Aerial view of the thermokarst lake complex captured during UAV documentation." caption="Figure 4. Orthomosaic-style UAV imagery of the thermokarst lake complex and surrounding landscape." %}
 
 - High-resolution imagery of lake distribution patterns
 - Spatial documentation of lake morphology and interconnections

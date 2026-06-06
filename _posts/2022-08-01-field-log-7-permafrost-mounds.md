@@ -1,7 +1,9 @@
 ---
-title: 'Field Log 3: Permafrost Mounds and Freeze-Thaw Landform Diversity'
+title: 'Field Log 7: Permafrost Mounds and Freeze-Thaw Landform Diversity'
 date: 2022-08-01
-permalink: /posts/2022/08/field-log-3-permafrost-mounds/
+permalink: /posts/2022/08/field-log-7-permafrost-mounds/
+redirect_from:
+  - /posts/2022/08/field-log-3-permafrost-mounds/
 tags:
   - field-work
   - freeze-thaw
@@ -14,8 +16,7 @@ tags:
 
 Approximately one week into fieldwork, during the journey toward Mulin Town, the team observed and documented multiple representative freeze-thaw geomorphological features. Mid-afternoon fieldwork at approximately 3:00 PM revealed a **typical permafrost mound complex** combining features of frost-heave hillocks and early-stage thermokarst lakes.
 
-![Permafrost mound complex showing frost-heave tussocks and differential ground ice accumulation.](/images/expedition/permafrost-mounds.jpg)
-*Figure 4. Permafrost mound complex documented near Mulin Town.*
+{% include field-log-figure.html src="/images/expedition/permafrost-mounds.jpg" alt="Permafrost mound complex showing frost-heave tussocks and differential ground ice accumulation." caption="Figure 1. Permafrost mound complex documented near Mulin Town." %}
 
 ## Permafrost Mound (Frost-Heave Hillock) Characteristics
 

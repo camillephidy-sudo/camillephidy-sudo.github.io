@@ -1,7 +1,9 @@
 ---
-title: 'Field Log 9: Huazhaizi Oasis — RPG Radiometer Network and Observation Synthesis'
+title: 'Field Log 4: Huazhaizi Oasis — RPG Radiometer Network and Observation Synthesis'
 date: 2019-09-22
-permalink: /posts/2019/09/field-log-9-huazhaizi-sensor-network/
+permalink: /posts/2019/09/field-log-4-huazhaizi-sensor-network/
+redirect_from:
+  - /posts/2019/09/field-log-9-huazhaizi-sensor-network/
 tags:
   - field-work
   - heihe-river-basin
@@ -18,20 +20,18 @@ tags:
 
 | Phase | Dates | Focus |
 |-------|-------|--------|
-| Corridor transect | Aug 2019 | Qinghai–Heihe wetland gradient ([Field Log 6](/posts/2019/08/field-log-6-qinghai-heihe-corridor/)) |
-| Network deployment | Early Sep 2019 | Multi-node sensor/tower install ([Field Log 7](/posts/2019/09/field-log-7-heihe-remote-sensing-experiment/)) |
-| Daman superstation | Mid Sep 2019 | Flux + microwave intercomparison ([Field Log 8](/posts/2019/09/field-log-8-daman-superstation/)) |
+| Corridor transect | Aug 2019 | Qinghai–Heihe wetland gradient ([Field Log 1](/posts/2019/08/field-log-1-qinghai-heihe-corridor/)) |
+| Network deployment | Early Sep 2019 | Multi-node sensor/tower install ([Field Log 2](/posts/2019/09/field-log-2-heihe-remote-sensing-experiment/)) |
+| Daman superstation | Mid Sep 2019 | Flux + microwave intercomparison ([Field Log 3](/posts/2019/09/field-log-3-daman-superstation/)) |
 | Huazhaizi synthesis | 22 Sep 2019 | Radiometer QA and product reporting |
 
 ## RPG Microwave Radiometer System
 
 Huazhaizi hosts **RPG (Radiometer Physics GmbH)** microwave systems integrated with rail-mounted platforms for repeatable zenith/nadir sampling. Red-aperture auxiliary sensors and GPS time synchronization ensure traceable brightness temperature records for **soil-moisture retrieval validation**.
 
-![RPG microwave radiometer with auxiliary sensors at Huazhaizi.](/images/heihe/huazhaizi-station-1.jpg)
-*Figure 20. RPG radiometer installation at Huazhaizi oasis station.*
+{% include field-log-figure.html src="/images/heihe/huazhaizi-station-1.jpg" alt="RPG microwave radiometer with auxiliary sensors at Huazhaizi." caption="Figure 1. RPG radiometer installation at Huazhaizi oasis station." %}
 
-![RPG-MWSC-160-RX unit with GPS and radiation shield on the observation platform.](/images/heihe/huazhaizi-station-2.jpg)
-*Figure 21. Instrument detail—RPG-MWSC-160-RX microwave radiometer at Huazhaizi.*
+{% include field-log-figure.html src="/images/heihe/huazhaizi-station-2.jpg" alt="RPG-MWSC-160-RX unit with GPS and radiation shield on the observation platform." caption="Figure 2. Instrument detail—RPG-MWSC-160-RX microwave radiometer at Huazhaizi." %}
 
 ## Scientific Outcomes (2019 Field Season)
 
