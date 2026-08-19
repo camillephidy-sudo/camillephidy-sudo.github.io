@@ -1,4 +1,4 @@
-<figure class="field-log-figure">
+<figure class="{{ include.class | default: 'field-log-figure' }}">
   <img src="{{ include.src }}" alt="{{ include.alt }}" loading="lazy">
   {% if include.caption %}
   <figcaption>{{ include.caption }}</figcaption>

@@ -3,9 +3,9 @@ title: "Prescribed-Burn Effectiveness under Hydroclimatic Dynamics"
 collection: portfolio
 date: 2026-08-01
 venue: "Independent research — GlobalRx space-for-time meta-analysis"
-excerpt: "GlobalRx prescribed-burn records matched ambient-vs-warmer: burned area rises with warming (+113% at +5 °C) while opportunity-normalized delivery falls at +2…+3 °C—a program-feasibility tension under warmer climate analogs.<br/><img src='/images/portfolio/prescribed-burn/fig-pct-response-ladder.png'>"
+excerpt: "GlobalRx prescribed-burn records matched ambient-vs-warmer: burned area rises with warming (+113% at +5 °C) while opportunity-normalized delivery falls at +2…+3 °C—a program-feasibility tension under warmer climate analogs.<br/><img src='/images/portfolio/prescribed-burn/Fig2_pct_response_ladder.png'>"
 header:
-  teaser: /images/portfolio/prescribed-burn/fig-pct-response-ladder.png
+  teaser: /images/portfolio/prescribed-burn/Fig2_pct_response_ladder.png
 redirect_from:
   - /portfolio/2023-12-01-soc-warming-meta-analysis-pipeline/
 tags:
@@ -63,53 +63,33 @@ GlobalRx events → climate/landform covariates → feature engineering
 
 ## Key Results
 
-Under warmer climate analogs, prescribed-burn **extent** and **relative emission-activity** increase; **opportunity-normalized delivery** does not. Absolute inventories stay near null.
+Three compartments diverge under the same matching grammar:
 
-### Primary burned area (Global)
+| Compartment | Pattern along +1…+5 °C | Implication |
+|-------------|------------------------|-------------|
+| **Extent** (primary / fuel-reduction area) | Linear rise, **+20.6% → +113.4%** (24.3% °C⁻¹; *n* = 3991 → 2464) | Warmer analogs host larger burns |
+| **Delivery** (burns / OpportunityDay) | U-shape: **−26% / −31% at +2 / +3 °C** | Fewer operations per open day |
+| **Emissions** (EmisProxy vs FINN/GFED) | Relative proxy **+78% at +5 °C**; inventories near null | Fuel × combustion does not scale 1:1 with hectares |
 
-| ΔT (°C) | *n* pairs | lnRR | 95% CI | % change |
-|--------:|----------:|-----:|--------|---------:|
-| +1 | 3991 | 0.187 | [−0.151, 0.525] | +20.6% |
-| +2 | 3738 | 0.215 | [−0.165, 0.595] | +24.0% |
-| +3 | 3291 | 0.415 | [−0.035, 0.865] | +51.5% |
-| +4 | 2959 | 0.593 | [0.082, 1.103] | +80.9% |
-| +5 | 2464 | 0.758 | [0.188, 1.328] | **+113.4%** |
+Figures below are the production `soc_style` pack (Wang et al. 2022 grammar).
 
-The area ladder is approximately linear (**24.3% °C⁻¹**, R² = 0.95). Pair counts taper as matching becomes harder at high ΔT.
+{% include field-log-figure.html class="portfolio-figure" src="/images/portfolio/prescribed-burn/Fig2_pct_response_ladder.png" alt="Prescribed-burn percentage responses versus warming for extent, delivery, and emission endpoints." caption="Figure 2. Extent climbs; window activity does not. EmisProxy rises more slowly than area; FINN/GFED stay near null." %}
 
-{% include field-log-figure.html src="/images/portfolio/prescribed-burn/fig-pct-response-ladder.png" alt="Percentage response of prescribed-burn endpoints versus warming from +1 to +5 degrees C." caption="Figure 1. Warming ladder: primary area and related endpoints versus +1…+5 °C (95% CI)." %}
+{% include field-log-figure.html class="portfolio-figure" src="/images/portfolio/prescribed-burn/Fig2c_window_compartments.png" alt="Burn-window activity density versus safe FFDI share across warming levels." caption="Figure 2c. Quantity vs quality inside the window: delivery drops at moderate warming; safe-FFDI share is stable to mildly positive." %}
 
-### Parallel Global endpoints at +5 °C
+{% include field-log-figure.html class="portfolio-figure" src="/images/portfolio/prescribed-burn/Fig3_moderators_primary.png" alt="Moderator lollipop plots of residual burned-area responses by fuelbed, landform, precip seasonality, and biome." caption="Figure 3. Residual warming responses concentrate in plains, winter-seasonality burns, Mediterranean woodland/scrub, and broadleaf evergreen forest." %}
 
-| Branch | *n* | lnRR | % |
-|--------|----:|-----:|--:|
-| EmisProxy | 2535 | 0.574 | +77.6% |
-| FINN PM₂.₅ | 377 | 0.102 | +10.7% |
-| GFED PM₂.₅ | 433 | −0.035 | −3.4% |
-| Window activity | 732 | 0.073 | +7.5% |
-| Safe-FFDI share | 732 | 0.188 | +20.7% |
+{% include field-log-figure.html class="portfolio-figure" src="/images/portfolio/prescribed-burn/Fig3b_metaforest_importance.png" alt="MetaForest variable importance and observed versus predicted lnRR for primary burned area." caption="Figure 3b. Baseline burned area dominates %-change, then climate (MAT, MAP); landform is weakest (validation R² = 0.56)." %}
 
-EmisProxy rises more modestly than area (18.2% °C⁻¹ vs 24.3% °C⁻¹): fuel × combustion weighting does not amplify hectares one-for-one.
+{% include field-log-figure.html class="portfolio-figure" src="/images/portfolio/prescribed-burn/Fig4_inventory_validation.png" alt="Relative emission proxy compared with FINN and GFED absolute PM2.5 inventories." caption="Figure 4. EmisProxy is the narrative endpoint; absolute inventories are under-powered calibration, not interchangeable masses." %}
 
-{% include field-log-figure.html src="/images/portfolio/prescribed-burn/fig-all-branches-ladders.png" alt="Warming ladders for all prescribed-burn meta-analysis branches." caption="Figure 2. Parallel-branch warming ladders (area, emission proxies, inventories, burn window)." %}
+{% include field-log-figure.html class="portfolio-figure" src="/images/portfolio/prescribed-burn/Fig5b_rx_cells.png" alt="World maps of predicted prescribed-burn area percent change at 0.25 degree cells with GlobalRx events under plus 2 and plus 5 degrees C." caption="Figure 5b. Program geography (0.25° cells that already report Rx): predicted % intensifies from +2 to +5 °C, mainly in the US and SE Australia." %}
 
-### Program-feasibility tension
+{% include field-log-figure.html class="portfolio-figure" src="/images/portfolio/prescribed-burn/Fig5_global_vs_australia.png" alt="Global versus Australia warming ladders for prescribed-burn endpoints." caption="Figure 5. Geography is first-order: AU area at +5 °C is far steeper (lnRR 2.67 vs Global 0.76)." %}
 
-Window activity density (burns per OpportunityDay) is a **U-shape**, not a line: near-null at +1 °C, **significantly negative at +2…+3 °C** (lnRR −0.299 / −0.376; about −26% / −31%), then recovering with wide CIs at +5 °C. Warmer analogs can host **larger individual burns** even as **burns per open day fall**.
+{% include field-log-figure.html class="portfolio-figure" src="/images/portfolio/prescribed-burn/Fig6_implied_extra_hectares.png" alt="Implied extra prescribed-burn hectares under warming from historical stock times predicted percent change." caption="Figure 6. Stock × predicted % is not the pair-count ladder: implied extra hectares turn positive only above +3 °C." %}
 
-Safe-FFDI share is near-null to mildly positive—little evidence that operations systematically leave the Rx-safe band once seasons and cells are matched.
-
-{% include field-log-figure.html src="/images/portfolio/prescribed-burn/fig-window-compartments.png" alt="Burn-window activity density versus safe FFDI share across warming levels." caption="Figure 3. Window compartments: activity density (quantity) vs. safe-FFDI share (quality)." %}
-
-{% include field-log-figure.html src="/images/portfolio/prescribed-burn/fig-inventory-validation.png" alt="Relative emission proxy compared with FINN and GFED absolute PM2.5 inventories." caption="Figure 4. External check: relative EmisProxy vs. absolute FINN/GFED PM₂.₅." %}
-
-{% include field-log-figure.html src="/images/portfolio/prescribed-burn/fig-global-vs-australia.png" alt="Global versus Australia warming ladders for prescribed-burn endpoints." caption="Figure 5. Domain pattern: Global vs. Australia ladders (same matching grammar)." %}
-
-### Heterogeneity and domain
-
-- **MetaForest** (primary area): baseline burned area dominates %-change, then climate (MAT, MAP); coarse landform is weakest (calibration R² = 0.90; held-out R² = 0.56).
-- **Australia** area responses are much steeper than the global mean (e.g. +5 °C AU lnRR 2.67 vs Global 0.76). Season-aligned AU window activity is increasingly negative at high ΔT.
-- **Precip-window sensitivity** (25–100 mm): direction of the area ladder is stable; the production 100 mm window is the most conservative at high ΔT.
+{% include field-log-figure.html class="portfolio-figure" src="/images/portfolio/prescribed-burn/Fig2_all_branches_ladders.png" alt="Percentage-change warming ladders for all GlobalRx meta-analysis branches." caption="Figure S. Branch pack: fuel-reduction tracks area; weather-normalized (AU) is an order of magnitude larger; inventories and window stay near the origin." %}
 
 ## Deliverables
 
