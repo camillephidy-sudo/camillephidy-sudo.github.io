@@ -142,11 +142,18 @@
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Prescribed-Burn Effectiveness under Hydroclimatic Dynamics",
       "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "date": "2026",
+      "url": "/portfolio/2026-08-01-prescribed-burn-hydroclimate/",
+      "description": "GlobalRx space-for-time meta-analysis: burned area rises with warming while opportunity-normalized delivery falls at +2 to +3 °C."
+    },
+    {
+      "name": "Lockstep — Decentralized Milestone Escrow on Sepolia",
+      "category": "portfolio",
+      "date": "2025",
+      "url": "/portfolio/2025-05-01-lockstep-milestone-escrow/",
+      "description": "Foundry smart contract + React/wagmi frontend for trustless milestone payments on Sepolia."
     }
   ]
 }
